@@ -110,11 +110,22 @@ Local development environments for Python:
 
 ---
 
+## 📆 Week 7
+
+### 📝💡✏️ Practical Test
+
+---
+
 ## 📆 Week 8
 
 ### 🧩 Student Version
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_8/ds-pr-week-8-student.ipynb)
 - [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_8/ds-pr-week-8-student.ipynb)
+
+### ✅ Solution Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_8/ds-pr-week-8-solution.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-FFB300?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_8/ds-pr-week-8-solution.ipynb)
+
 
 ### 📂 Datasets
 - [![kc_house_data.csv](https://img.shields.io/badge/kc_house_data.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_8/kc_house_data.csv)
@@ -136,7 +147,41 @@ Local development environments for Python:
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_10/ds-pr-week-10-student.ipynb)
 - [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_10/ds-pr-week-10-student.ipynb)
 
+### ✅ Solution Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_10/ds-pr-week-10-solution.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-FFB300?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_10/ds-pr-week-10-solution.ipynb)
+
+
 ### 📂 Datasets
 - [![Auto.csv](https://img.shields.io/badge/Auto.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_10/Auto.csv)
+
+---
+
+## 📆 Week 11
+
+### 🧩 Student Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_11/ds-pr-week-11-student.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_11/ds-pr-week-11-student.ipynb)
+
+### 📂 Datasets
+- [![real_estate_price_size_year_view.csv](https://img.shields.io/badge/real_estate_price_size_year_view.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_11/real_estate_price_size_year_view.csv)
+
+---
+
+## 📆 Week 12
+
+### 🧩 Student Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_12/ds-pr-week-12-student.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/Data-Science/blob/main/Week_12/ds-pr-week-12-student.ipynb)
+
+### 📂 Datasets
+- [![food_allergy_dataset.csv](https://img.shields.io/badge/food_allergy_dataset.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_12/food_allergy_dataset.csv)
+
+---
+
+
+## 📆 Week 14
+
+### 📝💡✏️ Practical Test
 
 ---
